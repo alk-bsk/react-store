@@ -1,0 +1,64 @@
+/* chat css */
+
+.chatButton{
+    color:#fff;
+    background-color: #007bff8a;
+    position: fixed;
+    right: 22px;
+    bottom: 15px;
+}
+
+.chatButton:hover{
+    color:#fff;
+}
+
+.modal-dialog{
+    float: right;
+    margin-right: 2%;
+}
+
+.modal-body{
+    height:50vh;
+}
+
+.modal-header{
+    background: #e9eaea;
+}
+
+.iconBack{
+    background: #c7e3fc
+}
+
+.robo-message{
+    width: 85%;
+    background: #e9eaea;
+    padding: 1.5%;
+    border-radius: 3px;
+    overflow-wrap: anywhere;
+}
+
+.notify{
+    background: #ff0000cc;
+    position: absolute;
+    padding: 1%;
+    margin-top: -20px;
+}
+
+.notify-msg{
+    background: #17a2b8bd;
+    border-radius: 3px;
+    position: absolute;
+    padding: 9%;
+    margin-left: -153px;
+    margin-top: -25px;
+    z-index: 10000;
+}
+
+.notify-delete{
+    color: black;
+    position: absolute;
+    padding: -16%;
+    margin-top: -69px;
+    margin-left: 35px;
+
+}

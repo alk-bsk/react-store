@@ -1,0 +1,9 @@
+
+/* cards */
+.card-image{
+  padding: 30px;
+}
+
+.card-image:hover{
+  padding: 2px;
+}
